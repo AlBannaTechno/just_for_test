@@ -7,6 +7,7 @@ int main(int argc,char **argv){
 	int call;
 	char *name;
 	if(argc <2){
+		cout<<"Please gieve program correct data"<<endl;
 		exit(0)
 	}
 	else{
