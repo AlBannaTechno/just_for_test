@@ -8,7 +8,7 @@ int main(int argc,char **argv){
 	char *name;
 	if(argc <2){
 		cout<<"Please gieve program correct data"<<endl;
-		exit(0)
+		exit(0);
 	}
 	else{
 		__std__g_c_f_0xxff_(get_call(num),call);
